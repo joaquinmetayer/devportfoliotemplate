@@ -36,7 +36,7 @@ export default function About() {
       </p>
 
       <p>
-        When I'm not programming, I seek improvement, learning, and personal growth, physically and mentally, in addition to advancing in my career as a developer. I also dedicate time to my side project,  <span className="underline"><a href="https://joaquinmetayer.com/rrfx" target="_blank">RRFX</a></span>, and document the entire process on <span className="underline"><a href="https://www.youtube.com/channel/UChepHxgZmukOteW-6c796wQ" target="_blank">YouTube</a></span>.
+        When I'm not programming, I seek improvement, learning, and personal growth, physically and mentally, in addition to advancing in my career as a developer. I also dedicate time to my side project <span className="underline"><a href="https://t.me/+HV--j-xHGXg4ODgx" target="_blank">A99_DIARIES</a></span>, and document the entire process on <span className="underline"><a href="https://www.youtube.com/channel/UChepHxgZmukOteW-6c796wQ" target="_blank">YouTube</a></span>.
       </p>
     </motion.section>
   );

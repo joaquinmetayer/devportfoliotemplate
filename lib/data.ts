@@ -153,5 +153,7 @@ export const workedWithData = [
   "Vercel",
   "LangChain",
   "OpenAI",
+  "SonarQube",
+  "SonarCloud",
   "And more 😅"
 ] as const
