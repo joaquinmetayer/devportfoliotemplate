@@ -1,9 +1,7 @@
 import React from "react";
-import { CgWorkAlt } from "react-icons/cg";
 import { FaRobot } from "react-icons/fa";
 import { FaReact } from "react-icons/fa";
 import { IoIosRocket } from "react-icons/io";
-import { LuGraduationCap } from "react-icons/lu";
 import { IoLogoAngular } from "react-icons/io";
 import { FaPython } from "react-icons/fa";
 import corpcommentImg from "@/public/corpcomment.png";
